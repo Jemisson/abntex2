@@ -74,4 +74,4 @@ Usa o LyX? O abnTeX2 é compatível! Veja como instalar o arquivo de layout e o 
 
 `*` o abnTeX original era um projeto coordenado por Gerald Weber, Miguel Frasson, Renato Machnievscz e outros.
 
-`**` O abnTeX2 é compatível com a versão corrente da norma ABNT NBR 6023:2002. Porém, até este momento, o manual abnTeX2cite.pdf está atualizado com informações referentes à versão anterior da referida norma, ou seja, com informações sobre a versão 2000. A atualização do manual é uma das [atividades em execução](https://github.com/abntex/abntex2/issues) do projeto.
+`**` O abnTeX2 é compatível com a versão corrente da norma ABNT NBR 6023:2002. Porém, até este momento, o manual abnTeX2cite.pdf está atualizado com informações referentes à versão anterior da referida norma, ou seja, com informações sobre a versão 2000. A atualização do manual é uma das [atividades em execução](https://github.com/abntex/abntex2/issues) do projeto...
